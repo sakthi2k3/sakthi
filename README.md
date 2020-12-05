@@ -1,2 +1,2 @@
 # web scraping 
-web scraping using pysimply gui 
+ web scraping using pysimply gui 
